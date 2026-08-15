@@ -4,3 +4,5 @@ Learning Git for HPE ATLAS
 Working on ATLAS feature branch
 Remote feature branch practice
 Change from main development
+Change made by Developer B
+Change made by Developer A
